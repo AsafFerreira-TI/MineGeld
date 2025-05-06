@@ -1,26 +1,26 @@
-/*Alterações feitas no dia 02/05/2025. Filho de Deus, recebe pois o louvor e a adoração! */
+/*AlteraÃ§Ãµes feitas no dia 02/05/2025. Filho de Deus, recebe pois o louvor e a adoraÃ§Ã£o! */
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ a {
 #frame01 {
   margin-left: 50px;
   background-color: #000000;
-  background-image: url('/images/Games/games_img.png');
+  background-image: url('images/Games/games_img.png');
   width: 1215px;
   height: 592px;
   align-content: center;
