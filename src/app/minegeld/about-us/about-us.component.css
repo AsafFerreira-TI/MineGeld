@@ -1,31 +1,31 @@
-/* "Cantai ao Senhor, bendizei o Seu Nome, anunciai a Sua Salvação de dia em dia." Salmo 96:2 */
+/* "Cantai ao Senhor, bendizei o Seu Nome, anunciai a Sua SalvaÃ§Ã£o de dia em dia." Salmo 96:2 */
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Puritan Regular';
-  src: url('/fonts/Puritan/Puritan-Regular.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -33,7 +33,7 @@
   width:1215px;
   height: 592px;
   background-color: #000000;
-  background-image: url('/images/About-Us/about-us.png');
+  background-image: url('images/About-Us/about-us.png');
   margin-left: 50px;
   margin-top: -80px;
   align-items: center;
