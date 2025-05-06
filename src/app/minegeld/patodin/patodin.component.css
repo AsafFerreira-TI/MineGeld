@@ -1,26 +1,26 @@
-/* Pai, recebe pois a adoração de nosso coração. Louvado seja o nome do Senhor!*/
+/* Pai, recebe pois a adoraÃ§Ã£o de nosso coraÃ§Ã£o. Louvado seja o nome do Senhor!*/
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -31,7 +31,7 @@ a {
 #frame01 {
   margin-left: 50px;
   background-color: #000000;
-  background-image: url('/images/Home/multiple-devices-background.png');
+  background-image: url('images/Home/multiple-devices-background.png');
   width: 1215px;
   height: 592px;
   align-content: center;
