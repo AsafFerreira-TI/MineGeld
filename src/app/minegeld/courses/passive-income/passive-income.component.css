@@ -1,19 +1,19 @@
-/*Alterações feitas no dia 01/05/2025. Apenas ao Senhor a glória! */
+/*AlteraÃ§Ãµes feitas no dia 01/05/2025. Apenas ao Senhor a glÃ³ria! */
 
 @font-face {
     font-family: 'Inter ExtraBold';
-    src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+    src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
     font-weight: bold;
   }
   
 @font-face {
     font-family: 'Inter Regular';
-    src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+    src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
   
 @font-face {
     font-family: 'Inter Bold';
-    src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+    src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
     font-weight: bold;
 }
 
