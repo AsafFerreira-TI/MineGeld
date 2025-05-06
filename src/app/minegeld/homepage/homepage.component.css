@@ -1,0 +1,184 @@
+/*Alterações feitas no dia 29/04/2025. Soli Deo Gloria! */
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+#container {
+  background-color: #FEFAE0;
+  width:1278px;
+}
+
+#frame01 {
+  margin-left:50px;
+  width:1210px;
+  height:592px;
+  background-color: #5F6F52;
+  justify-self: center;
+  background-image: url('/images/Home/background-image-homepage.png');
+}
+
+.txt_answer{
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color: white;
+  margin-left: 150px;
+}
+
+#btn-checkOurCourses {
+  align-items: center;
+  display:grid;
+  grid-template-columns: 370px 75px;
+  background-color: #A9B388;
+  width:447px;
+  height: 85px;
+  border-radius: 25px;
+  margin-left: 700px;
+  margin-top: 100px;
+}
+
+.txt_btn01{
+  font-family: 'Puritan BoldItalic';
+  font-size: 40px;
+  color:white;
+  display:inline;
+  margin-left:25px;
+  margin-top:22px;
+}
+
+.img_arrow {
+  margin-top:-20px;
+}
+
+#frame02{
+  width: 1278px;
+  height: 1153px;
+  background-color: white;
+  margin-left:50px;
+  margin-top: 20px;
+
+  display:grid;
+  grid-template-columns: 600px 600px;
+  grid-column-gap: 70px;
+}
+
+#img01 {
+  margin-top:50px;
+  margin-left: 30px;
+
+  width: 562px;
+  height: 357px;
+  background-color: #F9EBC7;
+}
+
+#div01 {
+  margin-top:10px;
+}
+
+/* Alterações feitas no dia 30/04/2025. A honra e a glória pertencem ao Senhor! */
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+.title {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+}
+
+.subtitle{
+  font-family: 'Inter Regular';
+  font-size: 24px;
+}
+
+.btn_check{
+  font-family: 'Inter Bold';
+  font-size: 32px;
+  font-weight:bold;
+
+  width: 377px;
+  height: 70px;
+  background-color: #C4661F;
+  border-radius: 30px;
+  border: black solid 1px;
+
+  justify-items: center;
+  align-items:center;
+  color: white;
+  padding-top:10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.txt_btn {
+  margin-top: 10px;
+  margin-left: 55px;
+  align-self:center;
+}
+
+#subtt_01{
+  margin-top:-10px;
+}
+
+#div02 {
+  margin-top:-50px;
+  margin-left: 30px;
+}
+
+#frame03{
+  margin-left:50px;
+}
+
+/* Alterações feitas no dia 01/05/2025. Somente ao Senhor a Glória! */
+
+#frame04{
+  margin-left:50px;
+  padding-top:40px;
+  background-color: white;
+}
+
+#div03{
+  display:grid;
+  grid-template-columns: 550px 600px;
+  margin-left:30px;
+}
+
+#grid01{
+  padding-top:60px;
+}
+
+#tt_03{
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  font-weight: bold;
+
+  margin-left: 260px;
+}
+
+#subtt_03{
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  padding-bottom: 70px;
+}
+
+#txt_btn_patodin{
+  margin-left:70px;
+}

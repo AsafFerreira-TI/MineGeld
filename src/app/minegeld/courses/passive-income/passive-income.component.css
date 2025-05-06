@@ -1,0 +1,113 @@
+/*Alterações feitas no dia 01/05/2025. Apenas ao Senhor a glória! */
+
+@font-face {
+    font-family: 'Inter ExtraBold';
+    src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+  }
+  
+@font-face {
+    font-family: 'Inter Regular';
+    src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+  
+@font-face {
+    font-family: 'Inter Bold';
+    src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+#container {
+  background-color: #FEFAE0;
+  width:1278px;
+}
+
+#frame01 {
+  display:grid;
+  grid-template-columns: 600px 600px;
+  padding-top: 40px;
+  margin-left: 70px;
+  padding-bottom: 50px;
+}
+
+#titulo {
+  font-family: 'Inter ExtraBold';
+  font-size: 96px;
+  margin-left: 60px;
+}
+
+#intro {
+  align-items: center;
+  margin-left: 70px;
+}
+
+#titulo01 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#content01 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#definition {
+  align-items: center;
+  margin-left: 70px;
+}
+
+#titulo02 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#content02 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#types {
+  align-items: center;
+  margin-left: 70px;
+}
+
+#titulo03 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#content03 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+
+#build {
+  align-items: center;
+  margin-left: 70px;
+}
+
+#titulo04 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#content04 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 100px;
+}

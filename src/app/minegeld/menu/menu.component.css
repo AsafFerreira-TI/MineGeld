@@ -1,0 +1,51 @@
+/* Alteracoes feitas no dia 28/04/2025. Apenas ao Senhor Deus honra e gloria! */
+.menu {
+    width:1278;
+    height:59;
+    background-color: #5F6F52;
+    align-items:center;
+    border-radius: 5px;
+    position: -webkit-sticky;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  margin-top: 30px;
+  list-style-type: none;
+  margin-right: 40px;
+  color:white;
+  font-size: 20px;
+  font-family: 'CrimsonText';
+}
+
+a {
+  color: inherit;
+}
+
+.elementos {
+  display: grid;
+  grid-template-columns: 300px 200px 200px 150px 250px 220px;
+}
+
+.btn_myaccount {
+  display: grid;
+  grid-template-columns: 50px 100px;
+  align-items: center;
+  margin-top:-17px;
+  margin-bottom:10px;
+  color: black;
+  background-color: #F9EBC7;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+@font-face {
+  font-family: 'CrimsonText';
+  src: url('/fonts/Crimson_Text/CrimsonText-Regular.ttf') format('truetype');
+  font-weight: 50;
+  font-style: normal;
+}

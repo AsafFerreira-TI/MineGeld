@@ -1,0 +1,263 @@
+/*Alterações feitas no dia 02/05/2025. Soli Deo Gloria! */
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+#frame01 {
+  margin-left: 50px;
+  background-color: #B09F73;
+  background-image: url('/images/Ebooks/img_ebooks_background.png');
+  width: 1215px;
+  height: 592px;
+  margin-top: -80px;
+}
+
+#titulo {
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color:white;
+  margin-left: 200px;
+  padding-top: 120px;
+}
+
+#subtitulo {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  color: white;
+  margin-left: 200px;
+  margin-top: -50px;
+  margin-bottom: 30px;
+}
+
+#btn_download-pdf {
+  display: grid;
+  grid-template-columns: 350px 100px;
+  font-family: 'Puritan BoldItalic';
+  font-size: 40px;
+  color: white;
+  background-color: #5F6F52;
+  border-radius: 25px;
+  margin-left: 600px;
+  width: 450px;
+  height: 85px;
+  align-content: center;
+  padding-left: 25px;
+}
+
+#btn_img {
+  margin-top: 40px;
+}
+
+#frame02{
+  background-color: white;
+}
+
+#ebooks {
+  display: grid;
+  grid-template-columns: 600px 600px;
+  margin-left: 50px;
+  padding-bottom: 80px;
+}
+
+#frame03 {
+  display: grid;
+  grid-template-columns: 600px 600px;
+  margin-left: 50px;
+  background-color: #FEFAE0;
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
+
+#frame04 {
+  display: grid;
+  grid-template-columns: 600px 600px;
+  margin-left: 50px;
+  background-color: white;
+  padding-bottom: 50px;
+  padding-top: 40px;
+}
+
+#grid01 {
+  margin-left: 80px;
+}
+
+#grid02 {
+  margin-bottom: 100px;
+}
+
+#grid03 {
+  margin-left: 30px;
+}
+
+#grid04 {
+  margin-left: 100px;
+}
+
+#grid05 {
+  margin-left: 80px;
+}
+
+#grid06 {
+  margin-bottom: 100px;
+}
+
+#grid07 {
+  margin-left: 30px;
+}
+
+#grid08 {
+  margin-left: 100px;
+  padding-top: 70px
+}
+
+#grid09 {
+  margin-left: 80px;
+}
+
+#grid10 {
+  margin-bottom: 100px;
+}
+
+#grid12 {
+  margin-left: 100px;
+  padding-top: 70px;
+}
+
+#titulo00{
+  font-family: 'Inter ExtraBold';
+  font-size: 64px;
+  margin-top: 40px;
+  margin-bottom: 45px;
+}
+
+#titulo01 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  margin-left: -40px;
+}
+
+#titulo02 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+}
+
+#titulo03 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  margin-left: -80px;
+}
+
+#titulo04 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+}
+
+#titulo05 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  margin-left: -80px;
+}
+
+#titulo06 {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+}
+
+#content01 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+}
+
+#content02 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+}
+
+#content03 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+}
+
+#content04 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+}
+
+#content05 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+}
+
+#content06 {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  margin-left: 30px;
+}
+
+.btn_download {
+  font-family: 'Inter ExtraBold';
+  font-size: 32px;
+  background-color: #C4661F;
+  color: white;
+  width: 320px;
+  height: 77px;
+  align-content: center;
+  justify-content: center;
+  padding-left: 30px;
+  border-radius: 30px;
+  border: black solid 1px;
+}
+
+#btn_download01 {
+  margin-left: 70px;
+}
+
+#btn_download02 {
+  margin-left: 90px;
+}
+
+#btn_download03 {
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+
+#btn_download04 {
+  margin-left: 90px;
+}
+
+#btn_download05 {
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+#btn_download06 {
+  margin-left: 90px;
+}

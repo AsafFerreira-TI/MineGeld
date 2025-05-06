@@ -1,0 +1,133 @@
+/*Alterações feitas no dia 01/05/2025. Soli Deo Gloria */
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+#container {
+  background-color: #FEFAE0;
+  width:1278px;
+}
+
+#frame01 {
+  margin-left:50px;
+  width:1210px;
+  height:592px;
+  margin-top: -80px;
+  background-color: #5F6F52;
+  justify-self: center;
+  background-image: url('/images/Courses/img-courses.png');
+}
+
+#tt01 {
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color: white;
+  padding-left: 100px;
+  padding-top: 150px;
+}
+
+#btn-checkOurCourses {
+  align-items: center;
+  display:grid;
+  grid-template-columns: 370px 55px;
+  background-color: #A9B388;
+  width: 420px;
+  height: 85px;
+  border-radius: 25px;
+  margin-left: 700px;
+  margin-top: 100px;
+}
+
+.txt_btn01{
+  font-family: 'Puritan BoldItalic';
+  font-size: 40px;
+  color:white;
+  display:inline;
+  margin-left:25px;
+  margin-top:22px;
+}
+
+.img_arrow {
+  margin-top:-20px;
+  margin-left: -40px;
+}
+
+#coursesframe {
+  display: grid;
+  grid-template-columns: 600px 600px;
+  grid-row-gap: 100px;
+
+  margin-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.title{
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  margin-top:-10px;
+  padding-bottom: 5px;
+}
+
+.subtt{
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.btn_acess {
+  font-family: 'Inter ExtraBold';
+  font-size: 32px;
+  font-weight:bold;
+  color: white;
+
+  width: 379px;
+  height: 50px;
+  background-color: #C4661F;
+  border-radius: 30px;
+  border: 1px solid black;
+
+  padding-bottom: 50px;
+}
+
+.txt_btn_acess {
+  margin-left: 130px;
+
+}
+
+#info01{
+  margin-left: 50px;
+}
+
+#info02{
+  margin-left: 50px;
+}
+
+#info03{
+  margin-left: 50px;
+}

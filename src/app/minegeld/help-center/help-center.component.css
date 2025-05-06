@@ -1,0 +1,109 @@
+/* "Senhor, Tu tens sido o nosso refúgio, de geração em geração." Salmo 90:1 */
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+#btn_help-center {
+  display: grid;
+  grid-template-columns: 350px 100px;
+  font-family: 'Puritan BoldItalic';
+  font-size: 40px;
+  color: white;
+  background-color: #00A0FF;
+  border-radius: 25px;
+  margin-left: 600px;
+  width: 450px;
+  height: 85px;
+  align-content: center;
+  padding-left: 25px;
+}
+
+#btn_img {
+  margin-top: 40px;
+}
+
+#frame01 {
+  margin-left: 50px;
+  background-color: #084F73;
+  background-image: url('/images/Help-Center/help-center.png');
+  width: 1215px;
+  height: 592px;
+  margin-top: -80px;
+}
+
+#titulo {
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color:white;
+  margin-left: 50px;
+  padding-top: 120px;
+}
+
+#frame02, #frame03, #frame04, #frame05, #frame06 {
+  width: 1280px;
+  height: 845px;
+}
+
+.titulo {
+  font-family: 'Inter ExtraBold';
+  font-size: 48px; 
+  margin-bottom: 100px;
+}
+
+#buttons {
+  display: grid;
+  grid-template-columns: 240px 240px 240px 240px;
+  grid-template-rows: 140px 153px;
+  grid-column-gap: 40px;
+  grid-row-gap: 50px;
+  margin-left: 130px;
+  align-items:center;
+}
+
+.button {
+  font-family: 'Inter ExtraBold';
+  font-size: 32px;
+  border-radius: 30px;
+  border: #C4661F solid 1px;
+  color: #C4661F;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.button:hover {
+  color: white;
+  background-color:  #C4661F;
+  transform: scale(1.02);
+}
+
+.content {
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  margin-left: 200px;
+}
+

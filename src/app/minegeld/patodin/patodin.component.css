@@ -1,0 +1,108 @@
+/* Pai, recebe pois a adoração de nosso coração. Louvado seja o nome do Senhor!*/
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+#frame01 {
+  margin-left: 50px;
+  background-color: #000000;
+  background-image: url('/images/Home/multiple-devices-background.png');
+  width: 1215px;
+  height: 592px;
+  align-content: center;
+  margin-top:-5px;
+  margin-bottom: 50px;
+}
+
+#titulo {
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color:white;
+  margin-left: 280px;
+}
+
+.btn_check{
+  font-family: 'Inter Bold';
+  font-size: 32px;
+  font-weight:bold;
+
+  width: 377px;
+  height: 70px;
+  background-color: #C4661F;
+  border-radius: 30px;
+  padding-top: 10px;
+  border: black solid 1px;
+
+  justify-items: center;
+  align-content: center;
+  color: white;
+}
+
+.txt_btn {
+  margin-top: 10px;
+  margin-left: 55px;
+  align-self:center;
+}
+
+#frame03{
+  margin-left:50px;
+}
+
+#frame04{
+  margin-left:50px;
+  padding-top:40px;
+  background-color: white;
+}
+
+#div03{
+  display:grid;
+  grid-template-columns: 550px 600px;
+  margin-left:30px;
+}
+
+#grid03{
+  padding-top:60px;
+}
+
+#tt_03{
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  font-weight: bold;
+
+  margin-left: 260px;
+}
+
+#subtt_03{
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  padding-bottom: 70px;
+}
+
+#txt_btn_patodin{
+  margin-left:70px;
+}

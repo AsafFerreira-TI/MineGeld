@@ -1,0 +1,148 @@
+/*Alterações feitas no dia 02/05/2025. Filho de Deus, recebe pois o louvor e a adoração! */
+
+@font-face {
+  font-family: 'Puritan BoldItalic';
+  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inter ExtraBold';
+  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Inter Regular';
+  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Inter Bold';
+  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+#frame01 {
+  margin-left: 50px;
+  background-color: #000000;
+  background-image: url('/images/Games/games_img.png');
+  width: 1215px;
+  height: 592px;
+  align-content: center;
+  margin-top:-5px;
+}
+
+#titulo {
+  font-family: 'Puritan BoldItalic';
+  font-size: 90px;
+  color:white;
+  margin-left: 280px;
+}
+
+
+#frame02 {
+  padding-top: 50px;
+  margin-left: 50px;
+}
+
+#online-game {
+  display: grid;
+  grid-template-columns: 650px 600px;
+}
+
+#titulo01 {
+  font-family: 'Puritan BoldItalic';
+  font-size: 48px;
+}
+
+#btn_play {
+  font-family: 'Inter ExtraBold';
+  font-size: 32px;
+  background-color: #C4661F;
+  color: white;
+  width: 120px;
+  height: 71px;
+  align-content: center;
+  justify-content: center;
+  padding-left: 50px;
+  margin-left: 150px;
+  border-radius: 30px;
+  border: black solid 1px;
+}
+
+.btn_check{
+  font-family: 'Inter Bold';
+  font-size: 32px;
+  font-weight:bold;
+
+  width: 377px;
+  height: 70px;
+  background-color: #C4661F;
+  border-radius: 30px;
+  padding-top: 10px;
+  border: black solid 1px;
+
+  justify-items: center;
+  align-content: center;
+  color: white;
+}
+
+.txt_btn {
+  margin-top: 10px;
+  margin-left: 55px;
+  align-self:center;
+}
+
+#titulo02 {
+  font-family: 'Puritan BoldItalic';
+  font-size: 48px;
+}
+
+#grid02 {
+  margin-left: 30px;
+  margin-top: 50px;
+}
+
+#frame03{
+  margin-left:50px;
+}
+
+#frame04{
+  margin-left:50px;
+  padding-top:40px;
+  background-color: white;
+}
+
+#div03{
+  display:grid;
+  grid-template-columns: 550px 600px;
+  margin-left:30px;
+}
+
+#grid03{
+  padding-top:60px;
+}
+
+#tt_03{
+  font-family: 'Inter ExtraBold';
+  font-size: 48px;
+  font-weight: bold;
+
+  margin-left: 260px;
+}
+
+#subtt_03{
+  font-family: 'Inter Regular';
+  font-size: 24px;
+  padding-bottom: 70px;
+}
+
+#txt_btn_patodin{
+  margin-left:70px;
+}
