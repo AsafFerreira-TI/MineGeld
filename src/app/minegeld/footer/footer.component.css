@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
