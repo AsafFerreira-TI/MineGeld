@@ -2,30 +2,30 @@
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Puritan Regular';
-  src: url('/fonts/Puritan/Puritan-Regular.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -33,7 +33,7 @@
   width:1215px;
   height: 592px;
   background-color: #10170A;
-  background-image: url('/images/privacy-police/privacy-police.png');
+  background-image: url('images/privacy-police/privacy-police.png');
   margin-left: 50px;
   margin-top: -80px;
   align-items: center;
