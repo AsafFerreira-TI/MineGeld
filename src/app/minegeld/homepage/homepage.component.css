@@ -1,8 +1,8 @@
-/*Alterações feitas no dia 29/04/2025. Soli Deo Gloria! */
+/*AlteraÃ§Ãµes feitas no dia 29/04/2025. Soli Deo Gloria! */
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
@@ -18,7 +18,7 @@
   height:592px;
   background-color: #5F6F52;
   justify-self: center;
-  background-image: url('/images/Home/background-image-homepage.png');
+  background-image: url('images/Home/background-image-homepage.png');
 }
 
 .txt_answer{
@@ -78,22 +78,22 @@
   margin-top:10px;
 }
 
-/* Alterações feitas no dia 30/04/2025. A honra e a glória pertencem ao Senhor! */
+/* AlteraÃ§Ãµes feitas no dia 30/04/2025. A honra e a glÃ³ria pertencem ao Senhor! */
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -147,7 +147,7 @@ a {
   margin-left:50px;
 }
 
-/* Alterações feitas no dia 01/05/2025. Somente ao Senhor a Glória! */
+/* AlteraÃ§Ãµes feitas no dia 01/05/2025. Somente ao Senhor a GlÃ³ria! */
 
 #frame04{
   margin-left:50px;
