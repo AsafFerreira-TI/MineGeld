@@ -1,26 +1,26 @@
-/* "Senhor, Tu tens sido o nosso refúgio, de geração em geração." Salmo 90:1 */
+/* "Senhor, Tu tens sido o nosso refÃºgio, de geraÃ§Ã£o em geraÃ§Ã£o." Salmo 90:1 */
 
 @font-face {
   font-family: 'Puritan BoldItalic';
-  src: url('/fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
+  src: url('fonts/Puritan/Puritan-BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Inter ExtraBold';
-  src: url('/fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
+  src: url('fonts/Inter/static/Inter_24pt-ExtraBold.ttf') format('truetype');
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'Inter Regular';
-  src: url('/fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Inter Bold';
-  src: url('/fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
+  src: url('fonts/Inter/Inter_24pt-Bold.ttf') format('truetype');
   font-weight: bold;
 }
 
@@ -50,7 +50,7 @@ a {
 #frame01 {
   margin-left: 50px;
   background-color: #084F73;
-  background-image: url('/images/Help-Center/help-center.png');
+  background-image: url('images/Help-Center/help-center.png');
   width: 1215px;
   height: 592px;
   margin-top: -80px;
